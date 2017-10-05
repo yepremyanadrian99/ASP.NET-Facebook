@@ -1,0 +1,15 @@
+			1.Registration
+			2.Login (Profile)
+				2.1 Profile Picture (change, rotate, etc.)
+					2.1.1 Likes, Unlikes (showing under pic)
+				2.2 Online/Offline Status
+				2.3 Private Information (change password, etc.)
+			3.Friends
+				3.1 Add/Remove/View/Message Friends
+				3.2 Search new friends with emails
+			4.Messaging
+				4.1 Notifications with Sounds or without them
+				4.2 Clear Messages
+				4.3 New messages showing on profile screen
+				**Most Important!!**
+		Works between more than 2 computers on the same network.
